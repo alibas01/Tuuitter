@@ -25,3 +25,4 @@ auth0_rails_api/.byebug_history
 
 # Ignore master key for decrypting credentials and more.
 auth0_rails_api/config/master.key
+auth0_rails_api/config/credentials/*
